@@ -1,0 +1,16 @@
+{
+  "name": "usync-node-api",
+  "version": "1.0.0",
+  "description": "Nodejs API to generate webpage screenshots",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.6.1"
+  }
+}
